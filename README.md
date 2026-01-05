@@ -2,10 +2,9 @@
 ## Hi there, I'm N T Sunny Raj 👋
 
 <div align="center">
-  <!--  You can customize the typing text in the "lines=" section of the URL below -->
-  <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Fabric+%7C+PowerBI;Turning+Messy+data+into+actionable+insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Fabric+%7C+PowerBI;Turning+Messy+data+into+actionable+insights" alt="Typing SVG" />
 </div>
+
 
 
 <!-- 🔗 Update these links with your own social media and contact information -->
