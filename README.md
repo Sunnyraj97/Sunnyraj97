@@ -26,15 +26,20 @@ I'm a data analyst passionate about helping businesses make sense of their data.
 **My focus:** Building dashboards, Automating tasks, Fabric cloud solutions driving growth. When not with data, enjoy watching cricket and Consume Content Upskilling.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://Sunnyraj97.github.io/)
+### [🏆 Check Out My Full Portfolio Website](https://sunnyraj97.github.io/Portfolio-Website-Data-Analyst/)
 
 ## 📜 Certifications
 
 <p align="center">
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/Sunny-9440/31B01241330631AB?sharingId=7C9E9A1A23ED24CD">
-    <img src="https://img.shields.io/badge/Microsoft%20DP--600%20Fabric%20Analytics%20Engineer%20Associate-Certified-brightgreen?style=flat&logo=microsoft&logoColor=white" alt="DP-600 Badge">
+    <img src="https://img.shields.io/badge/Microsoft%20DP--600%20Fabric%20Analytics%20Engineer%20Associate-Certified-brightgreen?style=flat&logo=microsoft&logoColor=white" alt="DP-600">
+  </a>
+  &nbsp;|&nbsp;
+  <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/4sLyCPgmsy8DA6Dh3/a87GpgE6tiku7q3gu_4sLyCPgmsy8DA6Dh3_HeNw7LckF8cQvNSLr_1741520241221_completion_certificate.pdf">
+    <img src="https://img.shields.io/badge/PwC%20Switzerland-Power%20BI%20Job%20Simulation-blueviolet?style=flat&logo=pwc&logoColor=white" alt="PwC Forage">
   </a>
 </p>
+
       
 ## 🔭 What I'm Currently Working On 
 
