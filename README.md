@@ -63,7 +63,7 @@ I'm a data analyst passionate about helping businesses make sense of their data.
   <img src="https://img.shields.io/badge/Power%20BI-Advanced-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI">
   <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel">
   <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau">
-  <img src="https://img.shields.io/badge/Microsoft%20Fabric-Advanced-0078D4?style=flat&logo=microsoft&logoColor=white" alt="Fabric">
+  <img src="https://img.shields.io/badge/Microsoft%20Fabric-Intermediate-0078D4?style=flat&logo=microsoft&logoColor=white" alt="Fabric">
   <img src="https://img.shields.io/badge/DAX-Intermediate-F2C811?style=flat&logo=powerbi&logoColor=white" alt="DAX">
   <img src="https://img.shields.io/badge/Dataflows%20Gen2-Intermediate-purple?style=flat&logo=powerbi&logoColor=white" alt="Dataflows Gen2">
   <img src="https://img.shields.io/badge/OneLake-Intermediate-0078D4?style=flat&logo=microsoft&logoColor=white" alt="OneLake">
@@ -72,7 +72,6 @@ I'm a data analyst passionate about helping businesses make sense of their data.
 #### Programming & Automation
 <p>
   <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R">
   <img src="https://img.shields.io/badge/PySpark-Intermediate-F59E20?style=flat&logo=apachespark&logoColor=white" alt="PySpark">
   <img src="https://img.shields.io/badge/Pandas-Intermediate-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas">
   <img src="https://img.shields.io/badge/NumPy-Intermediate-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy">
