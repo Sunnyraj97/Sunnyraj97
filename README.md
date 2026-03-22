@@ -1,89 +1,95 @@
+![Profile Views](https://komarev.com/ghpvc/?username=sunnyraj97&color=C87941&style=flat-square&label=Profile+Views)
 
-## Hi there, I'm N T Sunny Raj 👋
+<h1 align="center">Hi there, I'm N T Sunny Raj 👋</h1>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Fabric+%7C+PowerBI;Turning+Messy+data+into+actionable+insights" alt="Typing SVG" />
-</div>
-
-
-
-<!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/ntsunnyraj/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
- <a href="mailto:ntsunnyraj97@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Personal-Red?style=for-the-badge&logo=gmail" alt="Email">
-</a>
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C87941&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Microsoft+Fabric+%7C+Power+BI;DP-600+Certified+Analytics+Engineer;Turning+Messy+Data+into+Actionable+Insights" alt="Typing SVG" />
 </p>
 
-
-
-## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
-
-**Career Highlights:** Fresher with DP-600 certification, built real-world analytics at PwC Virtual Internship (Power BI Developer)—uncovered 26.54% churn drivers across 7,043 customers and designed 500-employee diversity dashboards. Mastered Dataflows Gen2 pipelines (visual query editor, incremental loads) + Power BI Direct Lake for real-time OneLake analytics. Proficient in DAX, T-SQL, semantic modeling with RLS governance.
-
-**My focus:** Building dashboards, Automating tasks, Fabric cloud solutions driving growth. When not with data, enjoy watching cricket and Consume Content Upskilling.
-
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://sunnyraj97.github.io/Portfolio-Website-Data-Analyst/)
-
-## 📜 Certifications
-
 <p align="center">
-  <a href="https://learn.microsoft.com/api/credentials/share/en-us/Sunny-9440/31B01241330631AB?sharingId=7C9E9A1A23ED24CD">
-    <img src="https://img.shields.io/badge/Microsoft%20DP--600%20Fabric%20Analytics%20Engineer%20Associate-Certified-brightgreen?style=flat&logo=microsoft&logoColor=white" alt="DP-600">
+  <a href="https://sunnyraj97.github.io/Portfolio-Website-Data-Analyst/">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-Visit Now-C87941?style=for-the-badge"/>
   </a>
- 
-  <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/4sLyCPgmsy8DA6Dh3/a87GpgE6tiku7q3gu_4sLyCPgmsy8DA6Dh3_HeNw7LckF8cQvNSLr_1741520241221_completion_certificate.pdf">
-    <img src="https://img.shields.io/badge/PwC%20Switzerland-Power%20BI%20Job%20Simulation-blueviolet?style=flat&logo=pwc&logoColor=white" alt="PwC Forage">
+  <a href="https://www.linkedin.com/in/ntsunnyraj/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ntsunnyraj97@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact Me-6366F1?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
-      
-## 🔭 What I'm Currently Working On 
+---
 
-- **PwC Virtual Internship (Power BI Developer - Forage):** Built call center dashboards (avg. satisfaction 3.4/5); churn analysis for 7,043 customers (26.54% rate).
-- **King County House Sales Dashboard (Tableau):** Trends show most houses $200k-300k, 3 beds, 2-2.5 baths.
-- **Digital Music Store Data Analysis (SQL):** Advanced queries uncovered sales gaps for business growth.
-- **Movie Correlation Analysis (Python):** Identified key parameter correlations for film success prediction.
+## 🚀 About Me
 
+DP-600 Certified Microsoft Fabric Analytics Engineer with hands-on experience building end-to-end data pipelines, Power BI dashboards, and star schema models.
 
-## 🌱 Currently Learning 
+- 📊 Uncovered **26.54% churn rate** across 7,043 customers at PwC Virtual Internship
+- 🏗️ Built Medallion Architecture pipelines using Fabric, Dataflows Gen2, and Direct Lake
+- 👥 Designed 500-employee D&I diversity dashboard with RLS governance
+- 🎯 Proficient in DAX, T-SQL, Power BI, Python, and Tableau
 
-- Microsoft Fabric advanced: Dataflows Gen2 (visual query editor for joins/transforms), data pipelines, stored procs/views, notebooks; T-SQL/KQL for real-time analytics (post DP-600).
-- Microsoft Azure services with Fabric (OneLake, Synapse).
+---
 
+## 🏆 Certifications
 
-## 🛠️ Technical Skillset
+| Certification | Issuer | Status |
+|---|---|---|
+| [**Fabric Analytics Engineer Associate (DP-600)**](https://learn.microsoft.com/api/credentials/share/en-us/Sunny-9440/31B01241330631AB?sharingId=7C9E9A1A23ED24CD) | Microsoft | ✅ Certified |
+| [Power BI Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/4sLyCPgmsy8DA6Dh3/a87GpgE6tiku7q3gu_4sLyCPgmsy8DA6Dh3_HeNw7LckF8cQvNSLr_1741520241221_completion_certificate.pdf) | PwC Switzerland via Forage | ✅ Completed |
 
-#### Data Analysis & Visualization
-<p>
-  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/Power%20BI-Advanced-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI">
-  <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel">
-  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau">
-  <img src="https://img.shields.io/badge/Microsoft%20Fabric-Intermediate-0078D4?style=flat&logo=microsoft&logoColor=white" alt="Fabric">
-  <img src="https://img.shields.io/badge/DAX-Intermediate-F2C811?style=flat&logo=powerbi&logoColor=white" alt="DAX">
-  <img src="https://img.shields.io/badge/Dataflows%20Gen2-Intermediate-purple?style=flat&logo=powerbi&logoColor=white" alt="Dataflows Gen2">
-  <img src="https://img.shields.io/badge/OneLake-Intermediate-0078D4?style=flat&logo=microsoft&logoColor=white" alt="OneLake">
+---
+
+## 📁 Featured Projects
+
+| Project | Tools | Highlight |
+|---|---|---|
+| [End-to-End Fabric Funnel Analysis](https://github.com/sunnyraj97/fabric-funnel-analysis) | Fabric · Power BI · DAX | Found 42% drop-off at Trial→Paid stage across 500K rows |
+| [Call Center Dashboard](https://github.com/sunnyraj97/call-center-dashboard) | Power BI · DAX | Identified 26.54% churn across 7,043 users |
+| [Olympics Analytics](https://github.com/sunnyraj97/olympics-analytics) | Power BI · Star Schema | 120 years of data, 116K+ competitors, YoY time intelligence |
+| [Music Store Segmentation](https://github.com/sunnyraj97/music-store-sql) | SQL · PostgreSQL · CTEs | Top 10% of customers drove 38% of revenue |
+| [King County Real Estate](https://github.com/sunnyraj97/king-county-realestate) | Tableau · EDA | Quantified 32% waterfront price premium across 21K+ homes |
+| [D&I Workforce Report](https://github.com/sunnyraj97/di-workforce-report) | Power BI · DAX | Exposed 22-point gender gap in director-level promotions |
+
+---
+
+## 🛠️ Technical Skills
+
+**Data Engineering**
+
+`Microsoft Fabric` `OneLake` `Dataflows Gen2` `Medallion Architecture` `Delta Tables` `Data Pipelines` `Lakehouse`
+
+**Business Intelligence**
+
+`Power BI` `DAX` `Direct Lake` `Star Schema` `Time Intelligence` `Row-Level Security` `KPI Development`
+
+**Analytics & Programming**
+
+`SQL` `T-SQL` `KQL` `PostgreSQL` `Python` `Pandas` `NumPy` `PySpark` `Tableau` `Excel` `Git`
+
+---
+
+## 📚 Currently Learning
+
+- Building real-time streaming pipelines with **Microsoft Fabric Eventstream + Delta Lake**
+- Advanced **DAX** patterns — time intelligence, rolling averages, cohort analysis
+- **Azure Synapse Analytics** integration with Fabric OneLake
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sunnyraj97&show_icons=true&theme=dark&hide_border=true&bg_color=1A0F00&title_color=E8B87A&icon_color=C87941&text_color=FFF5EA" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sunnyraj97&theme=dark&hide_border=true&background=1A0F00&ring=C87941&fire=E8B87A&currStreakLabel=E8B87A" width="48%"/>
 </p>
 
-#### Programming & Automation
-<p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/PySpark-Intermediate-F59E20?style=flat&logo=apachespark&logoColor=white" alt="PySpark">
-  <img src="https://img.shields.io/badge/Pandas-Intermediate-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/NumPy-Intermediate-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/Git-Intermediate-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunnyraj97&layout=compact&theme=dark&hide_border=true&bg_color=1A0F00&title_color=E8B87A&text_color=FFF5EA" width="40%"/>
 </p>
 
-#### Business Intelligence & Analytics
-<p>
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling">
-  <img src="https://img.shields.io/badge/KPI%20Development-Advanced-96CEB4?style=flat" alt="KPI Development">
-  <img src="https://img.shields.io/badge/T--SQL-Intermediate-0078D4?style=flat&logo=microsoftsqlserver&logoColor=white" alt="T-SQL">
-  <img src="https://img.shields.io/badge/KQL-Intermediate-00BCF2?style=flat&logo=kusto&logoColor=white" alt="KQL">
-  <img src="https://img.shields.io/badge/RLS-Intermediate-F2C811?style=flat&logo=powerbi&logoColor=white" alt="RLS">
+---
+
+<p align="center">
+  <em>⭐ If you find my work useful, consider starring my repositories!</em>
 </p>
