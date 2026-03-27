@@ -46,9 +46,9 @@ DP-600 Certified Microsoft Fabric Analytics Engineer with hands-on experience bu
 |---|---|---|
 | [End-to-End Fabric Funnel Analysis](https://github.com/sunnyraj97/fabric-funnel-analysis) | Fabric · Power BI · DAX | Found 42% drop-off at Trial→Paid stage across 500K rows |
 | [Call Center Dashboard](https://github.com/sunnyraj97/call-center-dashboard) | Power BI · DAX | Identified 26.54% churn across 7,043 users |
-| [Olympics Analytics](https://github.com/sunnyraj97/olympics-analytics) | Power BI · Star Schema | 120 years of data, 116K+ competitors, YoY time intelligence |
-| [Music Store Segmentation](https://github.com/sunnyraj97/music-store-sql) | SQL · PostgreSQL · CTEs | Top 10% of customers drove 38% of revenue |
-| [King County Real Estate](https://github.com/sunnyraj97/king-county-realestate) | Tableau · EDA | Quantified 32% waterfront price premium across 21K+ homes |
+| [Olympics Analytics](https://github.com/Sunnyraj97/olympics-data-analysis) | Power BI · Star Schema | 120 years of data, 116K+ competitors, YoY time intelligence |
+| [Music Store Segmentation](https://github.com/Sunnyraj97/music-store-sql-analysis) | SQL · PostgreSQL · CTEs | Top 10% of customers drove 38% of revenue |
+| [King County Real Estate](https://github.com/Sunnyraj97/king-county-house-sales) | Tableau · EDA | Quantified 32% waterfront price premium across 21K+ homes |
 | [D&I Workforce Report](https://github.com/sunnyraj97/di-workforce-report) | Power BI · DAX | Exposed 22-point gender gap in director-level promotions |
 
 ---
