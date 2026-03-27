@@ -57,22 +57,22 @@ DP-600 Certified Microsoft Fabric Analytics Engineer with hands-on experience bu
 
 #### Data Engineering
 <p>
-  <img src="https://img.shields.io/badge/Microsoft%20Fabric-Advanced-0078D4?style=flat&logo=microsoft&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OneLake-Advanced-0078D4?style=flat&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Fabric-Intermediate-0078D4?style=flat&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OneLake-Intermediate-0078D4?style=flat&logo=microsoft&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dataflows%20Gen2-Advanced-7B2FBE?style=flat&logo=powerbi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Medallion%20Architecture-Advanced-C87941?style=flat"/>
+  <img src="https://img.shields.io/badge/Medallion%20Architecture-Intermediate-C87941?style=flat"/>
   <img src="https://img.shields.io/badge/Delta%20Tables-Intermediate-0078D4?style=flat&logo=microsoft&logoColor=white"/>
   <img src="https://img.shields.io/badge/Data%20Pipelines-Advanced-7B2FBE?style=flat&logo=powerbi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Lakehouse-Advanced-0078D4?style=flat&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lakehouse-Intermediate-0078D4?style=flat&logo=microsoft&logoColor=white"/>
 </p>
 
 #### Business Intelligence
 <p>
-  <img src="https://img.shields.io/badge/Power%20BI-Advanced-F2C811?style=flat&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/DAX-Advanced-F2C811?style=flat&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Direct%20Lake-Advanced-0078D4?style=flat&logo=microsoft&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Star%20Schema-Advanced-C87941?style=flat"/>
-  <img src="https://img.shields.io/badge/Time%20Intelligence-Advanced-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Power%20BI-Intermediate-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/DAX-Intermediate-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Direct%20Lake-Intermediate-0078D4?style=flat&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Star%20Schema-Intermediate-C87941?style=flat"/>
+  <img src="https://img.shields.io/badge/Time%20Intelligence-Intermediate-F2C811?style=flat&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Row--Level%20Security-Intermediate-F2C811?style=flat&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/KPI%20Development-Advanced-217346?style=flat&logo=microsoft-excel&logoColor=white"/>
 </p>
@@ -80,13 +80,13 @@ DP-600 Certified Microsoft Fabric Analytics Engineer with hands-on experience bu
 #### Analytics & Programming
 <p>
   <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/T--SQL-Advanced-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/T--SQL-Intermediate-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-Intermediate-336791?style=flat&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/KQL-Intermediate-00BCF2?style=flat"/>
   <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-Intermediate-150458?style=flat&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-Intermediate-013243?style=flat&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PySpark-Intermediate-F59E20?style=flat&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PySpark-Beginner-F59E20?style=flat&logo=apachespark&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=flat&logo=microsoft-excel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-Intermediate-F05032?style=flat&logo=git&logoColor=white"/>
@@ -94,11 +94,11 @@ DP-600 Certified Microsoft Fabric Analytics Engineer with hands-on experience bu
 
 #### Business Intelligence & Analytics
 <p>
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat"/>
+  <img src="https://img.shields.io/badge/Statistical%20Analysis-Intermediate-4ECDC4?style=flat"/>
   <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat"/>
   <img src="https://img.shields.io/badge/EDA-Advanced-96CEB4?style=flat"/>
   <img src="https://img.shields.io/badge/Cohort%20Analysis-Intermediate-C87941?style=flat"/>
-  <img src="https://img.shields.io/badge/Data%20Storytelling-Advanced-6366F1?style=flat"/>
+  <img src="https://img.shields.io/badge/Data%20Storytelling-Intermediate-6366F1?style=flat"/>
 </p>
 
 ---
